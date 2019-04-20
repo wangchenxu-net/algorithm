@@ -7,4 +7,4 @@
 --------
 
 * [排序算法](sort/)
-  * [冒泡排序](sort/bubble-sort/)
+  * [冒泡排序](sort/bubble_sort/)
