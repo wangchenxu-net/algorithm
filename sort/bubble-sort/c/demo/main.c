@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../bubble-sort.h"
+#include "../bubble_sort.h"
 int main()
 {
 	int arr[10];

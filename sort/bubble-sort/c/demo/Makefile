@@ -5,9 +5,9 @@ EXEC = main
 
 all: $(EXEC)
 
-$(EXEC): $(EXEC).o bubble-sort.o
+$(EXEC): $(EXEC).o bubble_sort.o
 
-bubble-sort.o: ../bubble-sort.c
+bubble_sort.o: ../bubble_sort.c
 	$(CC)	-c -o $@ $<
 
 .PHONY: clean

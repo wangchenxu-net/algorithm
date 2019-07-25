@@ -4,4 +4,4 @@ tag:
   - 排序
 ---
 
-* [冒泡排序](bubble_sort/)
+* [冒泡排序](bubble-sort/)
