@@ -5,3 +5,4 @@ tag:
 ---
 
 * [冒泡排序](bubble-sort/)
+* [插入排序](insertion-sort/)
