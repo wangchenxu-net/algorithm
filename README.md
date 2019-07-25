@@ -9,3 +9,4 @@
 * [排序算法](sort/)
   * [冒泡排序](sort/bubble-sort/)
   * [插入排序](sort/insertion-sort/)
+  * [选择排序](sort/selection-sort/)
